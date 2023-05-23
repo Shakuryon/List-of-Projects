@@ -1,0 +1,40 @@
+question_data = [
+    {
+        "category": "Entertainment: Video Games",
+        "type": "boolean", "difficulty": "easy",
+        "question": "The song 'Megalovania' by Toby Fox made its third appearence in the 2015 RPG 'Undertale''",
+        "correct_answer": "True",
+        "incorrect_answers": ["False"]
+    },
+    {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+     "question": "Faust is a playable character in &quot;Guilty Gear Xrd Revelator&quot;.",
+     "correct_answer": "True",
+     "incorrect_answers": ["False"]},
+    {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+     "question": "&quot;Half-Life 2&quot; runs on the Source Engine.", "correct_answer": "True",
+     "incorrect_answers": ["False"]},
+    {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+     "question": "Pac-Man was invented by the designer Toru Iwatani while he was eating pizza.",
+     "correct_answer": "True", "incorrect_answers": ["False"]},
+    {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+     "question": "In 'Super Mario Bros.';, the clouds and bushes have the same artwork and are just "
+                 "different colors.",
+     "correct_answer": "True", "incorrect_answers": ["False"]},
+    {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+     "question": "The PlayStation was originally a joint project between Sega and Sony that was a Sega Genesis with a "
+                 "disc drive.",
+     "correct_answer": "False", "incorrect_answers": ["True"]},
+    {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+     "question": "The main playable character of the 2015 RPG &quot;Undertale&quot; is a monster.",
+     "correct_answer": "False", "incorrect_answers": ["True"]},
+    {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+     "question": "In Pokemon Sun and Moon, a male Salandit can evolve to a Salazzle.",
+     "correct_answer": "False",
+     "incorrect_answers": ["True"]},
+    {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+     "question": "In RuneScape, one must complete the &quot;Dragon Slayer&quot; quest before equipping Rune Platelegs.",
+     "correct_answer": "False", "incorrect_answers": ["True"]},
+    {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+     "question": "In the video game 'Splatoon', the playable characters were originally going to be rabbits instead "
+                 "of squids.",
+     "correct_answer": "True", "incorrect_answers": ["False"]}]
